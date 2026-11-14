@@ -1,1 +1,31 @@
-{"updated":null,"models":{}}
+{
+ "updated": "2026-11-14T00:17+00:00",
+ "models": {
+  "4GB": {
+   "offers": [],
+   "sources": [
+    "https://geizhals.eu/raspberry-pi-5-modell-b-a3029965.html",
+    "https://www.guenstiger.de/Produkt/Raspberry_Pi/5_Modell_B_4GB.html"
+   ],
+   "fresh": false
+  },
+  "8GB": {
+   "offers": [],
+   "sources": [
+    "https://geizhals.eu/raspberry-pi-5-modell-b-a3029981.html",
+    "https://www.guenstiger.de/Produkt/Raspberry_Pi/5_Modell_B_8GB.html"
+   ],
+   "fresh": false
+  },
+  "2GB": {
+   "offers": [],
+   "sources": [],
+   "fresh": false
+  },
+  "16GB": {
+   "offers": [],
+   "sources": [],
+   "fresh": false
+  }
+ }
+}
