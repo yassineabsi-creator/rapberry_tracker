@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pi 5 Price Finder</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--text:#17181c;--muted:#6a6f7a;--line:#e3e5ea;--acc:#d6245b;--ok:#0f7a3d;--okbg:#e5f6ec}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1014;--card:#1a1b21;--text:#f2f3f6;--muted:#9a9faa;--line:#2b2d36;--acc:#ff5c8a;--ok:#6fdc9b;--okbg:#12301f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,sans-serif}
+header{background:linear-gradient(135deg,#d6245b,#7c3aed);color:#fff;padding:28px 16px 56px}
+.w{max-width:860px;margin:0 auto}h1{margin:0 0 4px}main{max-width:860px;margin:-36px auto 0;padding:0 16px 40px}
+.tabs{display:flex;gap:8px;overflow-x:auto;padding-bottom:12px}
+.tabs button{border:0;background:var(--card);color:var(--text);padding:10px 20px;border-radius:999px;font:inherit;font-weight:600;cursor:pointer}
+.tabs .on{background:var(--text);color:var(--bg)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:10px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center}
+.card.top{border:2px solid var(--ok);background:var(--okbg)}
+.p{font-size:1.5rem;font-weight:800}.m{color:var(--muted);font-size:.85rem}
+a.b{background:var(--acc);color:#fff;text-decoration:none;font-weight:700;padding:9px 16px;border-radius:10px}
+</style></head><body>
+<header><div class="w"><h1>🍓 Pi 5 Price Finder</h1><div id="up">Loading…</div></div></header>
+<main><div class="tabs" id="tabs"></div><div id="list"></div>
+<p class="m">Prices come from European comparison sites and update automatically every night. Shipping to Tunisia and import duties are not included; check at checkout.</p></main>
+<script>
+var model="8GB",D=null;
+function go(){var t=document.getElementById("tabs");t.innerHTML="";
+["2GB","4GB","8GB","16GB"].forEach(function(m){var b=document.createElement("button");b.textContent="Pi 5 "+m;
+if(m===model)b.className="on";b.onclick=function(){model=m;go()};t.appendChild(b)});
+var L=document.getElementById("list");L.innerHTML="";
+var M=D&&D.models[model];
+if(!M||!M.offers.length){L.innerHTML='<div class="card">No prices found for this model yet.</div>';return}
+if(M.fresh===false){L.innerHTML='<div class="m">Today’s search failed for this model; showing the last known prices.</div>'}
+M.offers.forEach(function(o,i){var c=document.createElement("div");c.className="card"+(i?"":" top");
+c.innerHTML='<div><b>'+o.shop+'</b>'+(i?'':' · lowest')+'<div class="m">'+o.currency+' · from '+new URL(o.source).hostname+'</div></div><div class="p">'+(o.currency==="EUR"?"€":"")+o.price.toFixed(2)+'</div><a class="b" href="'+o.url+'" target="_blank" rel="noopener">View offer</a>';
+L.appendChild(c)})}
+fetch("prices.json?"+Date.now()).then(function(r){return r.json()}).then(function(j){D=j;
+document.getElementById("up").textContent=j.updated?"Last updated: "+new Date(j.updated).toLocaleString():"Waiting for the first update";go()})
+.catch(function(){document.getElementById("up").textContent="Could not load prices";go()});
+</script></body></html>
