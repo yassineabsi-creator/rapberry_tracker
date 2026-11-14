@@ -1,6 +1,11 @@
 {
- "updated": "2026-11-14T00:17+00:00",
+ "updated": "2026-11-14T00:32+00:00",
  "models": {
+  "2GB": {
+   "offers": [],
+   "sources": [],
+   "fresh": false
+  },
   "4GB": {
    "offers": [],
    "sources": [
@@ -10,17 +15,23 @@
    "fresh": false
   },
   "8GB": {
-   "offers": [],
-   "sources": [
-    "https://geizhals.eu/raspberry-pi-5-modell-b-a3029981.html",
-    "https://www.guenstiger.de/Produkt/Raspberry_Pi/5_Modell_B_8GB.html"
+   "offers": [
+    {
+     "shop": "PiShop.us",
+     "price": 175.0,
+     "currency": "USD",
+     "url": "https://www.pishop.us/product/raspberry-pi-5-8gb/",
+     "source": "https://www.pishop.us/product/raspberry-pi-5-8gb/"
+    },
+    {
+     "shop": "BerryBase",
+     "price": 189.0,
+     "currency": "EUR",
+     "url": "https://www.berrybase.at/en/raspberry-pi-5-8gb-ram",
+     "source": "https://www.berrybase.at/en/raspberry-pi-5-8gb-ram"
+    }
    ],
-   "fresh": false
-  },
-  "2GB": {
-   "offers": [],
-   "sources": [],
-   "fresh": false
+   "fresh": true
   },
   "16GB": {
    "offers": [],
