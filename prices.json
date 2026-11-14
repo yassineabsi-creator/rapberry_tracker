@@ -1,42 +1,221 @@
 {
- "updated": "2026-11-14T00:32+00:00",
+ "updated": "2026-11-14T00:43+00:00",
  "models": {
   "2GB": {
-   "offers": [],
-   "sources": [],
-   "fresh": false
+   "offers": [
+    {
+     "shop": "Audiophonics (FR)",
+     "price": 74.91,
+     "currency": "EUR",
+     "url": "https://www.audiophonics.fr/fr/raspberry-pi-et-modules-pour-rpi/raspberry-pi-5-2gb-p-19810.html",
+     "source": "https://www.audiophonics.fr/fr/raspberry-pi-et-modules-pour-rpi/raspberry-pi-5-2gb-p-19810.html"
+    },
+    {
+     "shop": "BerryBase (DE)",
+     "price": 82.5,
+     "currency": "EUR",
+     "url": "https://www.berrybase.de/en/raspberry-pi-5-2gb-ram",
+     "source": "https://www.berrybase.de/en/raspberry-pi-5-2gb-ram"
+    },
+    {
+     "shop": "Welectron (DE)",
+     "price": 83.9,
+     "currency": "EUR",
+     "url": "https://www.welectron.com/Raspberry-Pi-5-2-GB",
+     "source": "https://www.welectron.com/Raspberry-Pi-5-2-GB"
+    }
+   ],
+   "fresh": true
   },
   "4GB": {
-   "offers": [],
-   "sources": [
-    "https://geizhals.eu/raspberry-pi-5-modell-b-a3029965.html",
-    "https://www.guenstiger.de/Produkt/Raspberry_Pi/5_Modell_B_4GB.html"
+   "offers": [
+    {
+     "shop": "PiShop.us (US)",
+     "price": 110.0,
+     "currency": "USD",
+     "url": "https://www.pishop.us/product/raspberry-pi-5-4gb/",
+     "source": "https://www.pishop.us/product/raspberry-pi-5-4gb/"
+    },
+    {
+     "shop": "SparkFun (US)",
+     "price": 110.0,
+     "currency": "USD",
+     "url": "https://www.sparkfun.com/raspberry-pi-5-4gb.html",
+     "source": "https://www.sparkfun.com/raspberry-pi-5-4gb.html"
+    },
+    {
+     "shop": "Botland",
+     "price": 113.37,
+     "currency": "EUR",
+     "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html",
+     "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html"
+    },
+    {
+     "shop": "Welectron (DE)",
+     "price": 118.0,
+     "currency": "EUR",
+     "url": "https://www.welectron.com/Raspberry-Pi-5-4-GB",
+     "source": "https://www.welectron.com/Raspberry-Pi-5-4-GB"
+    },
+    {
+     "shop": "Melopero (IT)",
+     "price": 122.12,
+     "currency": "EUR",
+     "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/",
+     "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/"
+    },
+    {
+     "shop": "BerryBase (DE)",
+     "price": 123.9,
+     "currency": "EUR",
+     "url": "https://www.berrybase.de/en/raspberry-pi-5-4gb-ram",
+     "source": "https://www.berrybase.de/en/raspberry-pi-5-4gb-ram"
+    },
+    {
+     "shop": "Raspberrypi.dk (DK)",
+     "price": 126.95,
+     "currency": "EUR",
+     "url": "https://raspberrypi.dk/en/?p=196259",
+     "source": "https://raspberrypi.dk/en/?p=196259"
+    },
+    {
+     "shop": "RaspberryStore (NL)",
+     "price": 134.95,
+     "currency": "EUR",
+     "url": "https://www.raspberrystore.nl/PrestaShop/en/Raspberry_pi_5/507-raspberry-pi-5-4gb-5056561803319.html",
+     "source": "https://www.raspberrystore.nl/PrestaShop/en/Raspberry_pi_5/507-raspberry-pi-5-4gb-5056561803319.html"
+    },
+    {
+     "shop": "Audiophonics (FR)",
+     "price": 199.9,
+     "currency": "EUR",
+     "url": "https://www.audiophonics.fr/fr/single-board-computers-et-hats/raspberry-pi-5-4gb-micro-hdmi-ethernet-gigabit-wifi-bluetooth-50-4x-usb-24ghz-p-18332.html",
+     "source": "https://www.audiophonics.fr/fr/single-board-computers-et-hats/raspberry-pi-5-4gb-micro-hdmi-ethernet-gigabit-wifi-bluetooth-50-4x-usb-24ghz-p-18332.html"
+    }
    ],
-   "fresh": false
+   "fresh": true
   },
   "8GB": {
    "offers": [
     {
-     "shop": "PiShop.us",
+     "shop": "Kubii (FR)",
+     "price": 136.8,
+     "currency": "EUR",
+     "url": "https://www.kubii.com/en/nano-computers/4106-1831-raspberry-pi-5-3272496315938.html",
+     "source": "https://www.kubii.com/en/nano-computers/4106-1831-raspberry-pi-5-3272496315938.html"
+    },
+    {
+     "shop": "PiShop.us (US)",
      "price": 175.0,
      "currency": "USD",
      "url": "https://www.pishop.us/product/raspberry-pi-5-8gb/",
      "source": "https://www.pishop.us/product/raspberry-pi-5-8gb/"
     },
     {
-     "shop": "BerryBase",
+     "shop": "CanaKit (US/CA)",
+     "price": 175.0,
+     "currency": "USD",
+     "url": "https://www.canakit.com/raspberry-pi-5-8gb.html",
+     "source": "https://www.canakit.com/raspberry-pi-5-8gb.html"
+    },
+    {
+     "shop": "SparkFun (US)",
+     "price": 180.0,
+     "currency": "USD",
+     "url": "https://www.sparkfun.com/raspberry-pi-5-8gb.html",
+     "source": "https://www.sparkfun.com/raspberry-pi-5-8gb.html"
+    },
+    {
+     "shop": "RaspberryStore (NL)",
+     "price": 184.95,
+     "currency": "EUR",
+     "url": "https://www.raspberrystore.nl/PrestaShop/nl/raspberry-pi-5/508-raspberry-pi-5-8gb-5056561803326.html",
+     "source": "https://www.raspberrystore.nl/PrestaShop/nl/raspberry-pi-5/508-raspberry-pi-5-8gb-5056561803326.html"
+    },
+    {
+     "shop": "Adafruit (US)",
+     "price": 200.0,
+     "currency": "USD",
+     "url": "https://www.adafruit.com/product/5813",
+     "source": "https://www.adafruit.com/product/5813"
+    },
+    {
+     "shop": "Botland (PL/EU)",
+     "price": 188.5,
+     "currency": "EUR",
+     "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23905-raspberry-pi-5-8gb-5056561803326.html",
+     "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23905-raspberry-pi-5-8gb-5056561803326.html"
+    },
+    {
+     "shop": "BerryBase (DE)",
+     "price": 189.0,
+     "currency": "EUR",
+     "url": "https://www.berrybase.de/en/raspberry-pi-5-8gb-ram",
+     "source": "https://www.berrybase.de/en/raspberry-pi-5-8gb-ram"
+    },
+    {
+     "shop": "BerryBase (AT)",
      "price": 189.0,
      "currency": "EUR",
      "url": "https://www.berrybase.at/en/raspberry-pi-5-8gb-ram",
      "source": "https://www.berrybase.at/en/raspberry-pi-5-8gb-ram"
+    },
+    {
+     "shop": "Welectron (DE)",
+     "price": 189.0,
+     "currency": "EUR",
+     "url": "https://www.welectron.com/Raspberry-Pi-5-8-GB",
+     "source": "https://www.welectron.com/Raspberry-Pi-5-8-GB"
+    },
+    {
+     "shop": "Kiwi Electronics (NL)",
+     "price": 192.38,
+     "currency": "EUR",
+     "url": "https://www.kiwi-electronics.com/en/raspberry-pi-5-8gb-11580",
+     "source": "https://www.kiwi-electronics.com/en/raspberry-pi-5-8gb-11580"
+    },
+    {
+     "shop": "Office Partner (DE)",
+     "price": 199.9,
+     "currency": "EUR",
+     "url": "https://www.office-partner.de/raspberry-pi-modell-5-8gb-n2008301863",
+     "source": "https://www.office-partner.de/raspberry-pi-modell-5-8gb-n2008301863"
+    },
+    {
+     "shop": "OpenCircuit (NL)",
+     "price": 263.8,
+     "currency": "EUR",
+     "url": "https://opencircuit.shop/product/raspberry-pi-5-8gb-2",
+     "source": "https://opencircuit.shop/product/raspberry-pi-5-8gb-2"
     }
    ],
    "fresh": true
   },
   "16GB": {
-   "offers": [],
-   "sources": [],
-   "fresh": false
+   "offers": [
+    {
+     "shop": "PiShop.us (US)",
+     "price": 385.0,
+     "currency": "USD",
+     "url": "https://www.pishop.us/product/raspberry-pi-5-16gb/",
+     "source": "https://www.pishop.us/product/raspberry-pi-5-16gb/"
+    },
+    {
+     "shop": "BerryBase (DE)",
+     "price": 415.9,
+     "currency": "EUR",
+     "url": "https://www.berrybase.de/en/raspberry-pi-5-16gb-ram",
+     "source": "https://www.berrybase.de/en/raspberry-pi-5-16gb-ram"
+    },
+    {
+     "shop": "Welectron (DE)",
+     "price": 427.0,
+     "currency": "EUR",
+     "url": "https://www.welectron.com/Raspberry-Pi-5-16-GB",
+     "source": "https://www.welectron.com/Raspberry-Pi-5-16-GB"
+    }
+   ],
+   "fresh": true
   }
  }
 }
