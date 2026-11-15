@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:43+00:00",
+ "updated": "2026-11-15T02:21+00:00",
  "models": {
   "2GB": {
    "offers": [
@@ -73,7 +73,7 @@
     },
     {
      "shop": "Raspberrypi.dk (DK)",
-     "price": 126.95,
+     "price": 126.93,
      "currency": "EUR",
      "url": "https://raspberrypi.dk/en/?p=196259",
      "source": "https://raspberrypi.dk/en/?p=196259"
@@ -213,6 +213,13 @@
      "currency": "EUR",
      "url": "https://www.welectron.com/Raspberry-Pi-5-16-GB",
      "source": "https://www.welectron.com/Raspberry-Pi-5-16-GB"
+    },
+    {
+     "shop": "Melopero (IT)",
+     "price": 427.7,
+     "currency": "EUR",
+     "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-16gb/",
+     "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-16gb/"
     }
    ],
    "fresh": true
