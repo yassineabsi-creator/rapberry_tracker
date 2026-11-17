@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:32+00:00",
+ "updated": "2026-11-17T04:56+00:00",
  "models": {
   "2GB": {
    "offers": [
@@ -44,18 +44,18 @@
      "source": "https://www.sparkfun.com/raspberry-pi-5-4gb.html"
     },
     {
-     "shop": "Botland",
-     "price": 113.37,
-     "currency": "EUR",
-     "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html",
-     "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html"
-    },
-    {
      "shop": "Welectron (DE)",
      "price": 118.0,
      "currency": "EUR",
      "url": "https://www.welectron.com/Raspberry-Pi-5-4-GB",
      "source": "https://www.welectron.com/Raspberry-Pi-5-4-GB"
+    },
+    {
+     "shop": "Botland",
+     "price": 118.9,
+     "currency": "EUR",
+     "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html",
+     "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html"
     },
     {
      "shop": "Melopero (IT)",
@@ -73,7 +73,7 @@
     },
     {
      "shop": "Raspberrypi.dk (DK)",
-     "price": 126.93,
+     "price": 126.94,
      "currency": "EUR",
      "url": "https://raspberrypi.dk/en/?p=196259",
      "source": "https://raspberrypi.dk/en/?p=196259"
