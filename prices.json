@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:59+00:00",
+ "updated": "2026-11-19T03:57+00:00",
  "models": {
   "2GB": {
    "offers": [
@@ -70,6 +70,13 @@
      "currency": "EUR",
      "url": "https://www.berrybase.de/en/raspberry-pi-5-4gb-ram",
      "source": "https://www.berrybase.de/en/raspberry-pi-5-4gb-ram"
+    },
+    {
+     "shop": "Kiwi Electronics (NL)",
+     "price": 124.62,
+     "currency": "EUR",
+     "url": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579",
+     "source": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579"
     },
     {
      "shop": "Raspberrypi.dk (DK)",
