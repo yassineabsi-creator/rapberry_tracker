@@ -1,15 +1,8 @@
 {
- "updated": "2026-11-20T03:50+00:00",
+ "updated": "2026-11-21T03:43+00:00",
  "models": {
   "2GB": {
    "offers": [
-    {
-     "shop": "Audiophonics (FR)",
-     "price": 74.91,
-     "currency": "EUR",
-     "url": "https://www.audiophonics.fr/fr/raspberry-pi-et-modules-pour-rpi/raspberry-pi-5-2gb-p-19810.html",
-     "source": "https://www.audiophonics.fr/fr/raspberry-pi-et-modules-pour-rpi/raspberry-pi-5-2gb-p-19810.html"
-    },
     {
      "shop": "BerryBase (DE)",
      "price": 82.5,
@@ -23,6 +16,13 @@
      "currency": "EUR",
      "url": "https://www.welectron.com/Raspberry-Pi-5-2-GB",
      "source": "https://www.welectron.com/Raspberry-Pi-5-2-GB"
+    },
+    {
+     "shop": "Audiophonics (FR)",
+     "price": 129.9,
+     "currency": "EUR",
+     "url": "https://www.audiophonics.fr/fr/raspberry-pi-et-modules-pour-rpi/raspberry-pi-5-2gb-p-19810.html",
+     "source": "https://www.audiophonics.fr/fr/raspberry-pi-et-modules-pour-rpi/raspberry-pi-5-2gb-p-19810.html"
     }
    ],
    "fresh": true
@@ -44,25 +44,18 @@
      "source": "https://www.sparkfun.com/raspberry-pi-5-4gb.html"
     },
     {
-     "shop": "Welectron (DE)",
-     "price": 118.0,
-     "currency": "EUR",
-     "url": "https://www.welectron.com/Raspberry-Pi-5-4-GB",
-     "source": "https://www.welectron.com/Raspberry-Pi-5-4-GB"
-    },
-    {
      "shop": "Botland",
-     "price": 118.5,
+     "price": 117.9,
      "currency": "EUR",
      "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html",
      "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html"
     },
     {
-     "shop": "Melopero (IT)",
-     "price": 122.12,
+     "shop": "Welectron (DE)",
+     "price": 118.0,
      "currency": "EUR",
-     "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/",
-     "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/"
+     "url": "https://www.welectron.com/Raspberry-Pi-5-4-GB",
+     "source": "https://www.welectron.com/Raspberry-Pi-5-4-GB"
     },
     {
      "shop": "BerryBase (DE)",
@@ -79,8 +72,15 @@
      "source": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579"
     },
     {
+     "shop": "Melopero (IT)",
+     "price": 134.2,
+     "currency": "USD",
+     "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/",
+     "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/"
+    },
+    {
      "shop": "Raspberrypi.dk (DK)",
-     "price": 126.96,
+     "price": 126.97,
      "currency": "EUR",
      "url": "https://raspberrypi.dk/en/?p=196259",
      "source": "https://raspberrypi.dk/en/?p=196259"
@@ -148,7 +148,7 @@
     },
     {
      "shop": "Botland (PL/EU)",
-     "price": 188.0,
+     "price": 187.5,
      "currency": "EUR",
      "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23905-raspberry-pi-5-8gb-5056561803326.html",
      "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23905-raspberry-pi-5-8gb-5056561803326.html"
@@ -223,8 +223,8 @@
     },
     {
      "shop": "Melopero (IT)",
-     "price": 427.7,
-     "currency": "EUR",
+     "price": 470.0,
+     "currency": "USD",
      "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-16gb/",
      "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-16gb/"
     }
