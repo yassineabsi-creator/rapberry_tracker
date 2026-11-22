@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:43+00:00",
+ "updated": "2026-11-22T02:47+00:00",
  "models": {
   "2GB": {
    "offers": [
@@ -44,18 +44,25 @@
      "source": "https://www.sparkfun.com/raspberry-pi-5-4gb.html"
     },
     {
-     "shop": "Botland",
-     "price": 117.9,
-     "currency": "EUR",
-     "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html",
-     "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html"
-    },
-    {
      "shop": "Welectron (DE)",
      "price": 118.0,
      "currency": "EUR",
      "url": "https://www.welectron.com/Raspberry-Pi-5-4-GB",
      "source": "https://www.welectron.com/Raspberry-Pi-5-4-GB"
+    },
+    {
+     "shop": "Botland",
+     "price": 118.5,
+     "currency": "EUR",
+     "url": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html",
+     "source": "https://botland.store/raspberry-pi-5-modules-and-kits/23904-raspberry-pi-5-4gb--5056561803319.html"
+    },
+    {
+     "shop": "Melopero (IT)",
+     "price": 122.12,
+     "currency": "EUR",
+     "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/",
+     "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/"
     },
     {
      "shop": "BerryBase (DE)",
@@ -70,13 +77,6 @@
      "currency": "EUR",
      "url": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579",
      "source": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579"
-    },
-    {
-     "shop": "Melopero (IT)",
-     "price": 134.2,
-     "currency": "USD",
-     "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/",
-     "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/"
     },
     {
      "shop": "Raspberrypi.dk (DK)",
@@ -223,8 +223,8 @@
     },
     {
      "shop": "Melopero (IT)",
-     "price": 470.0,
-     "currency": "USD",
+     "price": 427.7,
+     "currency": "EUR",
      "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-16gb/",
      "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-16gb/"
     }
