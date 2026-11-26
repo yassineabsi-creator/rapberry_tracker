@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:12+00:00",
+ "updated": "2026-11-26T04:41+00:00",
  "models": {
   "2GB": {
    "offers": [
@@ -51,11 +51,25 @@
      "source": "https://www.welectron.com/Raspberry-Pi-5-4-GB"
     },
     {
+     "shop": "Melopero (IT)",
+     "price": 123.46,
+     "currency": "EUR",
+     "url": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/",
+     "source": "https://www.melopero.com/en/shop/boards/pi5/raspberry-pi-5-4gb/"
+    },
+    {
      "shop": "BerryBase (DE)",
      "price": 123.9,
      "currency": "EUR",
      "url": "https://www.berrybase.de/en/raspberry-pi-5-4gb-ram",
      "source": "https://www.berrybase.de/en/raspberry-pi-5-4gb-ram"
+    },
+    {
+     "shop": "Kiwi Electronics (NL)",
+     "price": 124.62,
+     "currency": "EUR",
+     "url": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579",
+     "source": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579"
     },
     {
      "shop": "RaspberryStore (NL)",
@@ -70,13 +84,6 @@
      "currency": "EUR",
      "url": "https://raspberrypi.dk/en/?p=196259",
      "source": "https://raspberrypi.dk/en/?p=196259"
-    },
-    {
-     "shop": "Kiwi Electronics (NL)",
-     "price": 149.54,
-     "currency": "EUR",
-     "url": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579",
-     "source": "https://www.kiwi-electronics.com/en/brand-raspberry-pi/raspberry-pi-5-4gb-11579"
     },
     {
      "shop": "Audiophonics (FR)",
@@ -154,6 +161,13 @@
      "source": "https://www.welectron.com/Raspberry-Pi-5-8-GB"
     },
     {
+     "shop": "Kiwi Electronics (NL)",
+     "price": 196.01,
+     "currency": "EUR",
+     "url": "https://www.kiwi-electronics.com/en/raspberry-pi-5-8gb-11580",
+     "source": "https://www.kiwi-electronics.com/en/raspberry-pi-5-8gb-11580"
+    },
+    {
      "shop": "Melopero (IT)",
      "price": 196.42,
      "currency": "EUR",
@@ -166,13 +180,6 @@
      "currency": "EUR",
      "url": "https://www.office-partner.de/raspberry-pi-modell-5-8gb-n2008301863",
      "source": "https://www.office-partner.de/raspberry-pi-modell-5-8gb-n2008301863"
-    },
-    {
-     "shop": "Kiwi Electronics (NL)",
-     "price": 235.21,
-     "currency": "EUR",
-     "url": "https://www.kiwi-electronics.com/en/raspberry-pi-5-8gb-11580",
-     "source": "https://www.kiwi-electronics.com/en/raspberry-pi-5-8gb-11580"
     },
     {
      "shop": "OpenCircuit (NL)",
